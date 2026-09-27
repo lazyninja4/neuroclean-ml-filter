@@ -1,0 +1,12 @@
+[theme]
+base="light"
+
+# Your preferred concrete grey backgrounds
+backgroundColor="#DDE1E5"
+secondaryBackgroundColor="#CED4DA"
+
+# Forces all standard app text to solid black
+textColor="#000000"
+
+# Forces main interactive components (buttons, links, text highlights) to black
+primaryColor="#000000"
